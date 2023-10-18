@@ -1,6 +1,6 @@
 
 
-# Completed on 10-23-Duke-VM's and Containers Applied Practice week3
+# Completed on 10-23-Duke-VM's and Containers Applied Practice week2
 
 [![Flask Change Microservice Test](https://github.com/noahgift/flask-change-microservice/actions/workflows/main.yml/badge.svg)](https://github.com/noahgift/flask-change-microservice/actions/workflows/main.yml)
 
